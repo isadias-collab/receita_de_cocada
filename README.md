@@ -6,4 +6,7 @@ Neste trabalho, desenvolvido no VsCode, foi criada uma página em HTML com uma R
 ______________________________________________________________
 Clique aqui para acessar o site:
 
-http://127.0.0.1:5500/atv_inserindo_imagens/index.html
+http://127.0.0.1:5500/atv_receita/index.html
+
+<img width="956" height="428" alt="image" src="https://github.com/user-attachments/assets/e6e5a9d1-6727-4d9f-9715-936cb50f3d73" />
+
